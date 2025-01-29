@@ -3,7 +3,7 @@ name: Start commiter
 on:
   workflow_dispatch:
   schedule:
-    # Runs at 2am UTC
+    # Runs at 3am UTC
     - cron: "0 3 * * *"
 jobs:
   run-commiter:
@@ -17,11 +17,9 @@ jobs:
         run: |
             git config --global user.name "himaster"
             git config --global user.email "vitalibicov83@gmail.com"
-      - name: Use Node.js
-        uses: actions/setup-node@v4
+      - uses: actions/setup-python@v5
         with:
-          node-version: '20.x'
-      - run: npm i moment
+          python-version: '3.13' 
       - name: run commiter
         env:
           FORCE_REMOVE: "y"
@@ -46,5 +44,4 @@ jobs:
           PROBABILITY_saturday: 0.5
           RATIO_sunday: 0
           PROBABILITY_sunday: 0
-        run: node commiter.js
-
+        run: python3 commiter.py
