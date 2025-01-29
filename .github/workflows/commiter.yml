@@ -1,0 +1,26 @@
+name: Start commiter
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs at 2am UTC
+    - cron: "0 3 * * *"
+jobs:
+  run-commiter:
+    name: Update Github with commits
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v1
+      - name: Setup git user
+        run: |
+            git config --global user.name "himaster"
+            git config --global user.email "vitalibicov83@gmail.com"
+      - name: Use Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20.x'
+      - run: npm i moment
+      - run: node commiter.js
+
