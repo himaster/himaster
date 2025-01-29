@@ -22,5 +22,29 @@ jobs:
         with:
           node-version: '20.x'
       - run: npm i moment
-      - run: node commiter.js
+      - name: run commiter
+        env:
+          FORCE_REMOVE: "y"
+          COMMIT_MODE: "random"
+          GITHUB_USERNAME: "himaster"
+          GITHUB_REPO: "charts"
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          START_DATE: 1
+          END_DATE: 1
+          MAX_COMMIT_NUMBER: 20
+          RATIO_monday: 0.8
+          PROBABILITY_monday: 0.6
+          RATIO_tuesday: 0.9
+          PROBABILITY_tuesday: 0.8
+          RATIO_wednesday: 0.9
+          PROBABILITY_wednesday: 0.8
+          RATIO_thursday: 0.9
+          PROBABILITY_thursday: 0.8
+          RATIO_friday: 0.7
+          PROBABILITY_friday: 0.8
+          RATIO_saturday: 0.5
+          PROBABILITY_saturday: 0.5
+          RATIO_sunday: 0
+          PROBABILITY_sunday: 0
+        run: node commiter.js
 
