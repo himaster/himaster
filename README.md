@@ -29,6 +29,8 @@ GitLab, Python, Postgres, MySQL, MongoDB, Elasticsearch, ClickHouse, Kafka, Netw
 **Soft Skills** : Management, Problem Solving, Communication, Leadership
 
 <!--START_SECTION:badges-->
+[![Optimize Costs for Google Kubernetes Engine Skill Badge](https://images.credly.com/size/110x110/images/258d3147-f075-4308-bdb0-fb8d5e1d4d0e/image.png)](http://www.credly.com/badges/56db474d-4f1e-48ad-afa6-92279cbd5b81 "Optimize Costs for Google Kubernetes Engine Skill Badge")
+[![AWS Knowledge: Networking Core](https://images.credly.com/size/110x110/images/e75f222b-7f75-4d7b-8a6a-67d68aa59d62/image.png)](http://www.credly.com/badges/fd02fc41-71bd-4c23-9824-aa1596a99155 "AWS Knowledge: Networking Core")
 [![AWS Knowledge: Architecting](https://images.credly.com/size/110x110/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png)](http://www.credly.com/badges/e7329f38-8074-4e20-b933-dbeae0414d6a "AWS Knowledge: Architecting")
 [![AWS Knowledge: Amazon EKS](https://images.credly.com/size/110x110/images/9bcbde6d-1754-4617-9337-124f7b10a6c2/image.png)](http://www.credly.com/badges/aa7dbf8c-1973-4592-9bf0-f2974e1fc800 "AWS Knowledge: Amazon EKS")
 [![LFC102: Inclusive Open Source Community Orientation](https://images.credly.com/size/110x110/images/4c923ac7-3490-4198-8ee6-fa9d3eb99b0d/blob)](http://www.credly.com/badges/853d0249-117c-49fe-8bea-23791ea0e3de "LFC102: Inclusive Open Source Community Orientation")
