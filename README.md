@@ -6,6 +6,8 @@
 
 #### [+44 (7488) 896-555](https://wa.me/447488896555) GMT+2
 
+
+![image](https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white)
 ### About
 
 DevOps Lead with **13+ years of commercial experience** , working in large teams of up to 26 members
