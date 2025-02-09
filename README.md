@@ -31,6 +31,7 @@ GitLab, Python, Postgres, MySQL, MongoDB, Elasticsearch, ClickHouse, Kafka, Netw
 **Soft Skills** : Management, Problem Solving, Communication, Leadership
 
 <!--START_SECTION:badges-->
+[![AWS Knowledge: Compute](https://images.credly.com/size/110x110/images/eba18772-5ecf-471b-b8af-dda79815b544/image.png)](http://www.credly.com/badges/664b0576-6729-4563-9b01-063d33023ab2 "AWS Knowledge: Compute")
 [![LFEL1014: Scaling Cloud Native Applications with KEDA](https://images.credly.com/size/110x110/images/c35303ff-2b71-4f77-8fb2-c985c39dbf7f/blob)](http://www.credly.com/badges/7ee048f2-d118-4808-aeff-2c7928187dd9 "LFEL1014: Scaling Cloud Native Applications with KEDA")
 [![Optimize Costs for Google Kubernetes Engine Skill Badge](https://images.credly.com/size/110x110/images/258d3147-f075-4308-bdb0-fb8d5e1d4d0e/image.png)](http://www.credly.com/badges/56db474d-4f1e-48ad-afa6-92279cbd5b81 "Optimize Costs for Google Kubernetes Engine Skill Badge")
 [![AWS Knowledge: Networking Core](https://images.credly.com/size/110x110/images/e75f222b-7f75-4d7b-8a6a-67d68aa59d62/image.png)](http://www.credly.com/badges/fd02fc41-71bd-4c23-9824-aa1596a99155 "AWS Knowledge: Networking Core")
