@@ -2,7 +2,8 @@
 
 ## DEVOPS LEAD, 13+ YEARS EXPERIENCE
 
-### [vitalybikov.work@gmail.com](mailto:vitalybikov.work@gmail.com) | [Linkedin](https://www.linkedin.com/in/vitalybykov-devops?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) | [bicov.pro](https://bicov.pro)
+### [vitalybikov.work@gmail.com](mailto:vitalybikov.work@gmail.com) | [Linkedin](https://www.linkedin.com/in/vitalybykov-devops?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+[https://bicov.pro](https://bicov.pro)
 
 #### [+44 (7488) 896-555](https://wa.me/447488896555) GMT+2
 
