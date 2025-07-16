@@ -1,4 +1,4 @@
-# Vitaly Bykov
+# Vitaly Bicov
 
 ## DEVOPS LEAD, 13+ YEARS EXPERIENCE
 
