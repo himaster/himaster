@@ -2,7 +2,7 @@
 
 ## DEVOPS LEAD, 13+ YEARS EXPERIENCE
 
-### [vitaly@bicov.pro](mailto:vitaly@bicov.pro) | [Linkedin](www.linkedin.com/in/vitaly-bicov)
+### [vitaly@bicov.pro](mailto:vitaly@bicov.pro) | [Linkedin](https://www.linkedin.com/in/vitaly-bicov)
 [https://bicov.pro](https://bicov.pro)
 
 #### [+44 (7488) 896-555](https://wa.me/447488896555) GMT+2
