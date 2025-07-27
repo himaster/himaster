@@ -3,7 +3,7 @@
 ## DEVOPS LEAD, 13+ YEARS EXPERIENCE
 
 ### [vitaly@bicov.pro](mailto:vitaly@bicov.pro) | [Linkedin](https://www.linkedin.com/in/vitaly-bicov)
-[https://bicov.pro](https://bicov.pro)
+[https://bicov.pro](https://bicov.pro) | [Youtube](https://www.youtube.com/@The-DevOps-Edge)
 
 #### [+44 (7488) 896-555](https://wa.me/447488896555) GMT+2
 
