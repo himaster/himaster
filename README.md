@@ -43,5 +43,5 @@ GitLab, Python, Postgres, MySQL, MongoDB, Elasticsearch, ClickHouse, Kafka, Netw
 [![LFEL1014: Scaling Cloud Native Applications with KEDA](https://images.credly.com/size/80x80/images/c35303ff-2b71-4f77-8fb2-c985c39dbf7f/blob)](https://www.credly.com/badges/7ee048f2-d118-4808-aeff-2c7928187dd9)
 [![Optimize Costs for Google Kubernetes Engine Skill Badge](https://images.credly.com/size/80x80/images/258d3147-f075-4308-bdb0-fb8d5e1d4d0e/image.png)](https://www.credly.com/badges/56db474d-4f1e-48ad-afa6-92279cbd5b81)
 [![AWS Knowledge: Networking Core - Training Badge](https://images.credly.com/size/80x80/images/e1c202b1-bca1-469a-9149-127b4fe891d7/blob)](https://www.credly.com/badges/fd02fc41-71bd-4c23-9824-aa1596a99155)
-[![Introduction to Continuous Delivery and GitOps using Argo CD](https://images.credly.com/size/80x80/images/341a52f2-483c-4bb6-92f5-a4efbc608b5f/e8435d7c-18ab-4958-9393-a7a24344ed01_cached_image_20250709-27-8y2j4a.png)](https://www.credly.com/users/vitali-bicov/badges)
+[![Introduction to Continuous Delivery and GitOps using Argo CD](https://images.credly.com/size/80x80/images/6f9f57ee-ef08-412f-bdf8-1cc698526e2d/26e5bbc3-6f37-4e9a-b9e0-dd4a8e352560_cached_image_20260609-33-sgheby.png)](https://www.credly.com/users/vitali-bicov/badges)
 <!--END_SECTION:badges-->
