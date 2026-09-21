@@ -11,7 +11,7 @@
 ![image](https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white)  ![image](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![image](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  ![image](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) ![image](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white) ![image](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![image](https://img.shields.io/badge/Solana-000?style=for-the-badge&logo=Solana&logoColor=9945FF) ![image](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
 ### About
 
-DevOps Lead with **15+ years of commercial experience** , working in large teams of up to 26 members
+DevOps Lead with **15+ years of commercial experience** , working in large teams of up to 18 members
 as well as solo, both remotely and on-site. Possess **6+ years of leadership experience** as a **Team
 Lead** , **Tech Lead,** and **Engineering Manager**. Specializing in optimizing high-load cloud systems, diving
 deep into Kubernetes, orchestrating with Terraform and Helm, and leading infrastructure transformations
