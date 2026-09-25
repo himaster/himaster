@@ -12,7 +12,7 @@
 ### About
 
 DevOps Tech Lead with **15+ years of commercial experience** , working in large teams of up to 18 members
-as well as solo, both remotely and on-site. Possess **6+ years of leadership experience** as a **Team
+as well as solo, both remotely and on-site. Possess **7+ years of leadership experience** as a **Team
 Lead** , **Tech Lead,** and **Engineering Manager**. Specializing in optimizing high-load cloud systems, diving
 deep into Kubernetes, orchestrating with Terraform and Helm, and leading infrastructure transformations
 to achieve cost efficiency. Proven track record of guiding teams to deliver scalable, resilient solutions
