@@ -27,8 +27,13 @@ def perform_clone(repository, repo_path, repo_url):
             print("Operation cancelled by the user.")
             sys.exit(0)
 
-    print(f"git clone {repo_url} {repo_path}")
+    print(f"git clone {repo_url.split('@')[-1]} {repo_path}")
     subprocess.run(["git", "clone", repo_url, repo_path], check=True)
+    # Auth via credential helper so it survives HTTP redirects
+    # (userinfo embedded in the URL is dropped when GitHub redirects the push).
+    subprocess.run(["git", "config", "credential.helper",
+                    '!f() { echo username=x-access-token; echo "password=$GITHUB_TOKEN"; }; f'],
+                   cwd=repo_path, check=True)
 
 def perform_commit(username, repository, repo_path, day):
     formatted_date = f"{day.strftime('%Y-%m-%d')}T12:{random_number_0_to_59()}:{random_number_0_to_59()}"
@@ -68,7 +73,7 @@ def perform_git_operations_stochastic(username, access_token, repository, start_
             for _ in range(num_commits):
                 perform_commit(username, repository, repo_path, day)
 
-            subprocess.run(["git", "push"], cwd=repo_path, env={"GITHUB_TOKEN": access_token}, check=True)
+            subprocess.run(["git", "push"], cwd=repo_path, env={**os.environ, "GITHUB_TOKEN": access_token}, check=True)
 
         day += timedelta(days=1)
 
@@ -85,7 +90,7 @@ def perform_git_operations_constant(username, access_token, repository, start_da
         perform_commit(username, repository, repo_path, day)
         day += timedelta(days=1)
 
-    subprocess.run(["git", "push"], cwd=repo_path, env={"GITHUB_TOKEN": access_token}, check=True)
+    subprocess.run(["git", "push"], cwd=repo_path, env={**os.environ, "GITHUB_TOKEN": access_token}, check=True)
     print(f"Committed from {start_date} to {end_date}. Check out your profile: https://github.com/{username}")
     sys.exit(0)
 
